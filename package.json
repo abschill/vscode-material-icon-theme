@@ -1,9 +1,9 @@
 {
-  "name": "material-icon-theme",
-  "displayName": "Material Icon Theme",
-  "description": "Material Design Icons for Visual Studio Code",
-  "version": "4.10.0",
-  "publisher": "PKief",
+  "name": "material-icon-theme-fork-lithtml",
+  "displayName": "Material Icon Theme (lit fork)",
+  "description": "Material Design Icons for Visual Studio Code (lit fork)",
+  "version": "4.10.1",
+  "publisher": "abschill",
   "engines": {
     "vscode": "^1.51.0"
   },
