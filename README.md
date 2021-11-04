@@ -7,6 +7,17 @@
   <br>
 </h1>
 
+<h4 align="center">FORKED INFO (add this to your settings.json for lit icon to work): </h4>
+<pre>"files.associations": {
+            "*.lit":"typescript",
+            "*.litjs":"javascript"
+        },
+        "material-icon-theme.files.associations": {
+            "*.lit":"lit",
+            "*.litjs":"lit"
+        },
+</pre>
+
 <h4 align="center">Get the Material Design icons into your VS Code.</h4>
 
 <p align="center">
